@@ -1,0 +1,3 @@
+ILMerge.exe /target:winexe /targetplatform:"v2,C:\Windows\Microsoft.NET\Framework64\v2.0.50727" /out:finish.exe GameLauncher.exe Interop.Shell32.dll
+
+C:\Program Files (x86)\Microsoft\ILMerge

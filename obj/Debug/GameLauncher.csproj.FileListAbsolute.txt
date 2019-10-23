@@ -8,3 +8,6 @@ C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Debug\GameLauncher.ex
 C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Debug\GameLauncher.pdb
 C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Debug\GameLauncher.Launcher.resources
 C:\Users\kausar\source\repos\GameLauncher\GameLauncher\bin\Debug\GameLauncher.exe.config
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\bin\Debug\Interop.Shell32.dll
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Debug\Interop.Shell32.dll
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Debug\GameLauncher.csproj.ResolveComReference.cache

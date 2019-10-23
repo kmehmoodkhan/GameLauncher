@@ -1,0 +1,12 @@
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\bin\Release\GameLauncher.exe.config
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\bin\Release\GameLauncher.exe
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\bin\Release\GameLauncher.pdb
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\bin\Release\Interop.Shell32.dll
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Release\Interop.Shell32.dll
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Release\GameLauncher.csproj.ResolveComReference.cache
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Release\GameLauncher.Launcher.resources
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Release\GameLauncher.Properties.Resources.resources
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Release\GameLauncher.csproj.GenerateResource.cache
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Release\GameLauncher.csproj.CoreCompileInputs.cache
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Release\GameLauncher.exe
+C:\Users\kausar\source\repos\GameLauncher\GameLauncher\obj\Release\GameLauncher.pdb
